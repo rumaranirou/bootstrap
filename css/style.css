@@ -1,0 +1,21 @@
+
+.box{
+    text-align: center;
+    font-size: 40px;
+    min-height: 100px;
+    background-color: yellow;
+}
+.col{
+    background-color: rgb(26, 89, 143);
+    color: rgb(135, 33, 79);
+}
+.p-3{
+    text-align: left;
+}
+.p-4{
+    text-align: right;
+    color: beige;
+}
+.h1{
+    background-color: red;
+}
